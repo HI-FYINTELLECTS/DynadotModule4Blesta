@@ -1,0 +1,16 @@
+{
+    "name": "blesta/dynadot",
+    "description": "Dynadot Module for Blesta (API3)",
+    "license": "proprietary",
+    "type": "blesta-module",
+    "require": {
+        "php": ">=7.2.0",
+        "blesta/composer-installer": "~1.0"
+    },
+    "authors": [
+        {
+            "name": "usijalihosting.com",
+            "email": "support@usijalihosting.com"
+        }
+    ]
+}
